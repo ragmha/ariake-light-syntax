@@ -1,0 +1,17 @@
+{
+  "name": "ariake-light-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A light blue syntax theme inspired by Japan colors and the poetry.",
+  "keywords": [
+    "light",
+    "blue",
+    "syntax",
+    "japan"
+  ],
+  "repository": "https://github.com/ragmha/ariake-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
